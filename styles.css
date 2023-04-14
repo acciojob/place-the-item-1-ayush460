@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.l{
+.holder{
 	display:flex;
 	flex-direction:row;
 	list-style:none;
